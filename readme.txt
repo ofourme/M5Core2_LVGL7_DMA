@@ -1,1 +1,1 @@
-
+使用vscode platform arduino框架建立M5Core2 LVGL7工程。移植LVGL代码及示例代码参考网络代码，采用双缓冲DMA模式。
